@@ -1,10 +1,10 @@
 # Site settings | 网站设置
-title: XiaoYi
-SEOTitle: XiaoYi的博客 | XiaoYi
+title: 小译
+SEOTitle: 小译的博客 | 小译
 header-img: img/home-bg-he.png
-email: RainbomSea@qq.com
-description: "RainbomSea的博客"
-keyword: "XiaoYi, XiaoYi的博客, xiao yi, xiaoyi, blog"
+email: 1053890420@qq.com
+description: "小译的博客"
+keyword: "XiaoYi, XiaoYi的博客, xiao yi, xiaoyi, blog ,小译,小 译"
 url: "http://zyyln.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zyyln/zyyln.github.io.git" #code repository | 代码仓库
