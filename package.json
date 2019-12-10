@@ -1,14 +1,14 @@
 {
-    "name": "RainbomSea",
-    "title": "RainbomSea",
-    "author": "BY <RainbomSea@qq.com>",
+    "name": "XiaoYi",
+    "title": "XiaoYi",
+    "author": "BY <1053890420@qq.com>",
     "version": "1.1.0",
-    "homepage": "http://RainbomSea.github.io",
+    "homepage": "http://zyyln.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/RainbomSea/RainbomSea.github.io"
+        "url": "https://github.com/zyyln/zyyln.github.io.git"
     },
-    "bugs": "https://github.com/RainbomSea/RainbomSea.github.io/issues",
+    "bugs": "https://github.com/zyyln/zyyln.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
